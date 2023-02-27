@@ -1,6 +1,6 @@
 # DashboardOlist
 
-<img src="https://media-exp1.licdn.com/dms/image/D4D12AQHcg8ZQSV0PGA/article-cover_image-shrink_720_1280/0/1663329582520?e=1671667200&v=beta&t=ClSYiRfCec_tN3BVBbsZo8YaOoGI9BUwFrrUJlpKAOE" alt="Dashboard">
+<img src="ss_relatorio.png" alt="Dashboard">
 
 <p>O projeto foi desenvolvido a partir de uma solicitação hipotética de construção de um painel para a visualização dos dados a partir de três perspectivas: vendas, logística e satisfação do cliente. Os dados escolhidos para o projeto são os disponibilizados pela Olist através da plataforma Kaggle no qual estão dispostos cem mil pedidos com dados sobre produtos, clientes, vendedores, avaliações, formas de pagamento e a geo localização destes, e podem ser acessados através deste <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?datasetId=55151&sortBy=voteCount&sort=votes&select=olist_geolocation_dataset.csv">link</a>. O conjunto de dados está organizado em oito tabelas em um modelo relacional.</p>
 
